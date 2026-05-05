@@ -1,0 +1,6 @@
+{
+  "name": "PriceScout: Smart Product Price Comparison",
+  "description": "A comprehensive search tool that aggregates products, brands, and prices from multiple sources with AI-powered normalization and 'best deal' detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
